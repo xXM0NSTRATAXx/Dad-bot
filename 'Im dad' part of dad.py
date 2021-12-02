@@ -15,4 +15,4 @@ async def on_message(message):
           await message.channel.send(embed=e)
       else:
           await message.channel.send(m)
-client.run('Nzc2MzAyMTE1MDA5NDYyMzAz.X6y5rw.nAIBnDnbjpEe3LuVlzy75EeIQ4o')
+client.run('Insert Your bots token here')
