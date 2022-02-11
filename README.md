@@ -3,12 +3,12 @@ Dad bot is a discord bot that can enhance the quality of conversations between t
 
 **_Commands of Dad bot_**
 
-💫 - __Fun__
+__💫 - __Fun____
 
             8ball [question]
 
 
-👻 - __Reactions__
+__👻 - __Reactions____
 
             send_reversecard [ping|user]
 
@@ -51,7 +51,7 @@ Dad bot is a discord bot that can enhance the quality of conversations between t
             kiss [ping|user] ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 
-💯 - __Math__
+__💯 - __Math____
 
             rolldice [numbeer_of_dice]
 
@@ -60,7 +60,7 @@ Dad bot is a discord bot that can enhance the quality of conversations between t
             calculate [expression to solve] ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 
-👾 - __Miscellaneous__
+__👾 - __Miscellaneous____
 
             avatar [ping|user] 
 
