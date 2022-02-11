@@ -5,64 +5,64 @@ Dad bot is a discord bot that can enhance the quality of conversations between t
 
 💫 - __Fun__
 
-8ball [question]
+            8ball [question]
 
 
 👻 - __Reactions__
 
-send_reversecard [ping|user]
+            send_reversecard [ping|user]
 
-Understandable [ping|user]
+            Understandable [ping|user]
 
-Baka [ping|user]
+            Baka [ping|user]
 
-Bite [ping|user]
+            Bite [ping|user]
 
-Blowkiss [ping|user]
+            Blowkiss [ping|user]
 
-Blush 
+            Blush 
 
-Bonk [ping|user]
+            Bonk [ping|user]
 
-Bye [ping|user] 
+            Bye [ping|user] 
 
-Cheer [ping|user] 
+            Cheer [ping|user] 
 
-Confused 
+            Confused 
 
-Cry
+            Cry
 
-Dab 
+            Dab 
 
-Dead 
+            Dead 
 
-Eat 
+            Eat 
 
-Facepalm [ping|user] 
+            Facepalm [ping|user] 
 
-good_morning [ping|user]
+            good_morning [ping|user]
 
-high_five [ping|user]
+            high_five [ping|user]
 
-hug [ping|user]
+            hug [ping|user]
 
-kill [ping|user] 
+            kill [ping|user] 
 
-kiss [ping|user] ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+            kiss [ping|user] ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 
 💯 - __Math__
 
-rolldice [numbeer_of_dice]
+            rolldice [numbeer_of_dice]
 
-flipcoins [number_of_coins]
+            flipcoins [number_of_coins]
 
-calculate [expression to solve] ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+            calculate [expression to solve] ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 
 👾 - __Miscellaneous__
 
-avatar [ping|user] 
+            avatar [ping|user] 
 
-choose [value1,value2....valuen] ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+            choose [value1,value2....valuen] ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
